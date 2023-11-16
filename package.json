@@ -8,7 +8,7 @@
     "build": "parcel build"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "keywords": [],
   "license": "ISC",
