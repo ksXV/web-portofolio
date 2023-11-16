@@ -174,7 +174,7 @@
               <div class="project-wrapper__image load-hidden">
                 <a
                   rel="noreferrer"
-                  href="https://nasa-mission-control.fly.dev/"
+                  href="https://crwn-db-de2d1.web.app/"
                   target="_blank"
                 >
                   <div
@@ -187,7 +187,7 @@
                     <img
                       alt="Project Image"
                       class="img-fluid"
-                      src="assets/nasa-project.png"
+                      src="assets/crwnclothing.png"
                     />
                   </div>
                 </a>
